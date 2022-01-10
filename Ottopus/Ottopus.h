@@ -1,6 +1,6 @@
 /* makebot ottopus library
  * makebot homepage : https://makebot.ml
- * files : https://github.com/makebot-lab/ottopus-lib
+ * lib-files : https://github.com/makebot-lab/ottopus-lib
  * developed by WONDAEHAN.
  */
 #ifndef Ottopus_h
