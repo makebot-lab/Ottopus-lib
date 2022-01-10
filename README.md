@@ -1,6 +1,6 @@
 # Ottopus-lib
 [![ottpus - docs](https://img.shields.io/badge/ottopus-docs-blue)](https://docs.makebot.kro.kr/ottopus)
-[![ottopus - video](https://img.shields.io/badge/ottopus-video-brightgreen)](https://youtu.be/qPRbOdSb7tU)
+[![ottopus - video](https://img.shields.io/badge/ottopus-video-brightgreen)](https://youtu.be/pe11TF9Kvl4)
 [![ottopus - project](https://img.shields.io/badge/ottopus-project-green)](http://ottopus.makebot.kro.kr)
 [![ottopus - lib-version](https://img.shields.io/badge/version-1.0.0-lightgrey)]()
 
