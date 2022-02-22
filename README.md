@@ -5,4 +5,4 @@
 [![ottopus - lib-version](https://img.shields.io/badge/version-1.0.0-lightgrey)]()
 
 This repository is about a library for makebot ottopus.
-Ottopus is an octopus robot developed by WONDAEHAN.
+Ottopus is an octopus robot developed by Daehan Won.
